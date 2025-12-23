@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="RTS Game"
+config/name="Dinosault"
 run/main_scene="uid://bgjy4omqa1kbi"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"

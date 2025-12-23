@@ -23,6 +23,7 @@ func _process(delta: float) -> void:
 	if health < max_health:
 		health_bar.visible = true
 	if health <= 0:
+		Game.enemy_count -= 1
 		queue_free()
 
 func fighting():

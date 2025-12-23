@@ -7,9 +7,10 @@ var enemy_units = []
 func _ready() -> void:
 	get_units()
 	enemy_units = get_tree().get_nodes_in_group("Enemy Units")
+	Game.enemy_count = len(enemy_units)
 
 func _process(delta: float) -> void:
-	if len(enemy_units) == 0:
+	if Game.enemy_count == 0:
 		var path = get_tree().get_root().get_node("World/UI")
 		var win_screen = victory_screen.instantiate()
 		path.add_child(win_screen)
