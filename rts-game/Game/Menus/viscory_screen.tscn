@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://cgodts5n0v301"]
 
-[node name="Viscory Screen" type="Node2D"]
+[node name="Victory Screen" type="Node2D"]
 
 [node name="Panel" type="Panel" parent="."]
 offset_left = 256.0
