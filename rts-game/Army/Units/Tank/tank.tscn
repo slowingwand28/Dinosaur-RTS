@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://c57xd1g268wi7"]
 
-[ext_resource type="Script" uid="uid://daycka3hxpv3n" path="res://Army/Units/Infantry/army_units.gd" id="1_hrhx1"]
+[ext_resource type="Script" path="res://Army/Units/Infantry/army_units.gd" id="1_hrhx1"]
 [ext_resource type="Texture2D" uid="uid://dk6hr1ycbum4a" path="res://Army/Units/Tank/Tenk.png" id="1_tabw7"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_hrhx1"]

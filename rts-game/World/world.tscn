@@ -1,7 +1,7 @@
 [gd_scene load_steps=17 format=4 uid="uid://bgjy4omqa1kbi"]
 
-[ext_resource type="Script" uid="uid://d0mf7rbks77rc" path="res://World/camera.gd" id="1_6jbkn"]
-[ext_resource type="Script" uid="uid://bgww2rmudxun" path="res://World/world.gd" id="1_44d2v"]
+[ext_resource type="Script" path="res://World/camera.gd" id="1_6jbkn"]
+[ext_resource type="Script" path="res://World/world.gd" id="1_44d2v"]
 [ext_resource type="PackedScene" uid="uid://b2nkq8fra0k8y" path="res://Game/UI/ui.tscn" id="1_yla30"]
 [ext_resource type="Texture2D" uid="uid://bhqu7g0eb7rgv" path="res://World/basic_tileset_and_assets_standard/terrain_tiles_v2.png" id="2_oe8m4"]
 [ext_resource type="Texture2D" uid="uid://ca7en13niyyjt" path="res://World/basic_tileset_and_assets_standard/water_and_island_tiles_v2.png" id="3_lo5ox"]

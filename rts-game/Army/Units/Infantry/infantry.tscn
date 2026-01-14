@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://b28jft20x0mkq"]
 
-[ext_resource type="Script" uid="uid://daycka3hxpv3n" path="res://Army/Units/Infantry/army_units.gd" id="1_7ri8r"]
+[ext_resource type="Script" path="res://Army/Units/Infantry/army_units.gd" id="1_7ri8r"]
 [ext_resource type="Texture2D" uid="uid://d5ewaf27w5em" path="res://Army/Units/Infantry/Grunt Girl 1.png" id="1_egfj5"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_egfj5"]

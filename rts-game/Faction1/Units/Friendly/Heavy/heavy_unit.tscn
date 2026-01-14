@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://tq6ob01y788y"]
 
-[ext_resource type="Script" uid="uid://dgskwgmhl0lt1" path="res://Faction1/Units/Friendly/Standard/friendly_unit.gd" id="1_thqkk"]
+[ext_resource type="Script" path="res://Faction1/Units/Friendly/Standard/friendly_unit.gd" id="1_thqkk"]
 [ext_resource type="Texture2D" uid="uid://bb48fliycqhws" path="res://Faction1/Units/Friendly/Heavy/anky.png" id="2_be0fg"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_be0fg"]

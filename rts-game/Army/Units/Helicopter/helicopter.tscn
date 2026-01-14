@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://jtp6oj42f513"]
 
-[ext_resource type="Script" uid="uid://daycka3hxpv3n" path="res://Army/Units/Infantry/army_units.gd" id="1_4g04r"]
+[ext_resource type="Script" path="res://Army/Units/Infantry/army_units.gd" id="1_4g04r"]
 [ext_resource type="Texture2D" uid="uid://dyudsnynb0bv4" path="res://Army/Units/Helicopter/Helicopter.png" id="1_ngkny"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_4g04r"]

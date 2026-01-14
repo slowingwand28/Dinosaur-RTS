@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://cyr37pramegdy"]
 
-[ext_resource type="Script" uid="uid://daycka3hxpv3n" path="res://Army/Units/Infantry/army_units.gd" id="1_bx7l7"]
+[ext_resource type="Script" path="res://Army/Units/Infantry/army_units.gd" id="1_bx7l7"]
 [ext_resource type="Texture2D" uid="uid://cp1jp31wxmmsg" path="res://Army/Units/Truck/Truck Abomination.png" id="1_hhmyp"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_bx7l7"]

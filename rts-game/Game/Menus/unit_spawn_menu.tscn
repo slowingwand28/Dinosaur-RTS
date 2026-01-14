@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://6d6o4b8mi8v5"]
 
-[ext_resource type="Script" uid="uid://bdmb67085lrmr" path="res://Game/Menus/unit_spawn_menu.gd" id="1_rafii"]
+[ext_resource type="Script" path="res://Game/Menus/unit_spawn_menu.gd" id="1_rafii"]
 [ext_resource type="Texture2D" uid="uid://c3om522xxxy4c" path="res://Faction1/Units/Friendly/Standard/lizard-grunt.png" id="2_qigx2"]
 [ext_resource type="Texture2D" uid="uid://bb48fliycqhws" path="res://Faction1/Units/Friendly/Heavy/anky.png" id="3_qigx2"]
 [ext_resource type="Texture2D" uid="uid://dowivpct2wfvb" path="res://Faction1/Units/Friendly/Flying/pteranodon.png" id="4_qigx2"]

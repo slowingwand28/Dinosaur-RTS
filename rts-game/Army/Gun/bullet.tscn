@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://cjclmlqn0rb6g"]
 
 [ext_resource type="Texture2D" uid="uid://b1pqkwa7aedj6" path="res://Army/Gun/projectile.png" id="1_74nea"]
-[ext_resource type="Script" uid="uid://xisslxohy85j" path="res://Army/Gun/bullet.gd" id="1_nsgn1"]
+[ext_resource type="Script" path="res://Army/Gun/bullet.gd" id="1_nsgn1"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_74nea"]
 radius = 6.0
